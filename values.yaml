@@ -1,0 +1,9 @@
+secret:
+  username: "cG9zdGdyZXM="
+  password: "cG9zdGdyZXM="
+
+config:
+  database_url: "jdbc:postgresql://192.168.49.1:5432/job4j_devops?sslmode=disable"
+
+containers:
+  image: "galkink370/job4j_devops:v.1.0.1"
